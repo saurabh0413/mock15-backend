@@ -1,0 +1,432 @@
+{
+  "questions": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+      "correct_answer": "Richard Branson",
+      "incorrect_answers": ["Alan Sugar", "Donald Trump", "Bill Gates"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What alcoholic drink is made from molasses?",
+      "correct_answer": "Rum",
+      "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Cynophobia the fear of?",
+      "correct_answer": "Dogs",
+      "incorrect_answers": ["Birds", "Flying", "Germs"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the closest planet to our solar system&#039;s sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": ["Mars", "Jupiter", "Earth"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not an Ivy League University?",
+      "correct_answer": "Stanford",
+      "incorrect_answers": [
+        "University of Pennsylvania",
+        "Harvard",
+        "Princeton"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the romanized Japanese word for &quot;university&quot;?",
+      "correct_answer": "Daigaku",
+      "incorrect_answers": ["Toshokan", "Jimusho", "Shokudou"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+      "correct_answer": "Big Mouth Billy Bass",
+      "incorrect_answers": ["Big Billy Bass", "Singing Fish", "Sardeen"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On average, Americans consume 100 pounds of what per second?",
+      "correct_answer": "Chocolate",
+      "incorrect_answers": ["Potatoes", "Donuts", "Cocaine"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Amsterdam Centraal station is twinned with what station?",
+      "correct_answer": "London Liverpool Street",
+      "incorrect_answers": [
+        "Frankfurt (Main) Hauptbahnhof",
+        "Paris Gare du Nord",
+        "Brussels Midi"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+      "correct_answer": "Horse",
+      "incorrect_answers": ["Weave", "Guitar", "Boat"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+      "correct_answer": "Ed Sheeran - I See Fire",
+      "incorrect_answers": [
+        "Marvin Gaye - Sexual Healing",
+        "Coldplay - Midnight",
+        "a-ha - Take On Me"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": ["13%", "20%", "7%"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+      "correct_answer": "Traffic Collision Avoidance System",
+      "incorrect_answers": [
+        "Traffic Communication Alert System",
+        "Traffic Configuration Alignment System",
+        "Traffic Call-sign Abbreviation System"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Nephelococcygia is the practice of doing what?",
+      "correct_answer": "Finding shapes in clouds",
+      "incorrect_answers": [
+        "Sleeping with your eyes open",
+        "Breaking glass with your voice",
+        "Swimming in freezing water"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+      "correct_answer": "15%",
+      "incorrect_answers": ["20%", "10%", "25%"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie released in 2016 features Superman and Batman fighting?",
+      "correct_answer": "Batman v Superman: Dawn of Justice",
+      "incorrect_answers": [
+        "Batman v Superman: Superapocalypse",
+        "Batman v Superman: Black of Knight",
+        "Batman v Superman: Knightfall"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the title of the first Bond movie, released in 1962?",
+      "correct_answer": "Dr. No",
+      "incorrect_answers": [
+        "From Russia with Love",
+        "Goldfinger",
+        "Thunderball"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first James Bond film?",
+      "correct_answer": "Dr. No",
+      "incorrect_answers": [
+        "Goldfinger",
+        "From Russia With Love",
+        "Thunderball"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+      "correct_answer": "Casablanca",
+      "incorrect_answers": [
+        "The Maltese Falcon",
+        "The Treasure of the Sierra Madre",
+        "Citizen Kane"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following actors has only been in a Quentin Tarantino directed film once?",
+      "correct_answer": "John Travolta",
+      "incorrect_answers": [
+        "Christoph Waltz",
+        "Harvey Keitel",
+        "Samuel L. Jackson"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+      "correct_answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+      "incorrect_answers": [
+        "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
+        "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
+        "&quot;Round up the usual suspects.&quot;"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+      "correct_answer": "George Clooney",
+      "incorrect_answers": ["Michael Keaton", "Val Kilmer", "Christian Bale"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+      "correct_answer": "Terry",
+      "incorrect_answers": ["Tommy", "Teddy", "Toto"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+      "correct_answer": "Coral",
+      "incorrect_answers": ["Sandy", "Pearl", "Shelly"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+      "correct_answer": "Pamela",
+      "incorrect_answers": ["Mary", "Christine", "Angeline"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+      "correct_answer": "23 years, 4 months, and 8 days",
+      "incorrect_answers": [
+        "15 years, 2 months, and 15 days",
+        "10 months and 6 days",
+        "26 years, 4 months, and 10 days"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+      "correct_answer": "4",
+      "incorrect_answers": ["2", "6", "1"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+      "correct_answer": "Thinking Machines CM-5",
+      "incorrect_answers": ["Cray X-MP", "Cray XK7", "IBM Blue Gene/Q"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+      "correct_answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+      "incorrect_answers": [
+        "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+        "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+        "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+      "correct_answer": "Too Agonizing",
+      "incorrect_answers": ["Too Loud", "Too Harsh", "Too Violent"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+      "correct_answer": "Toto",
+      "incorrect_answers": ["Foreigner", "Steely Dan", "Journey"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+      "correct_answer": "N.W.A",
+      "incorrect_answers": ["Wu-Tang Clan", "Run-D.M.C.", "Beastie Boys"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the best selling album of all time from 1976 to 2018?",
+      "correct_answer": "Thriller",
+      "incorrect_answers": [
+        "Back in Black",
+        "Abbey Road",
+        "The Dark Side of the Moon"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which brass instrument has the lowest pitch in an orchestra?",
+      "correct_answer": "Tuba",
+      "incorrect_answers": ["Trumpet", "Saxophone", "Trombone"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+      "correct_answer": "Cocaine",
+      "incorrect_answers": [
+        "Conan O&#039;Brien",
+        "Cobalt(II) carbonate",
+        "Coconut cream pie"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+      "correct_answer": "John",
+      "incorrect_answers": ["Paul", "George", "Ringo"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+      "correct_answer": "Aloe Blacc",
+      "incorrect_answers": ["John Legend", "CeeLo Green", "Pharrell Williams"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of French electronic music producer Madeon&#039;s 2015 debut studio album?",
+      "correct_answer": "Adventure",
+      "incorrect_answers": ["The City", "Icarus", "Pop Culture"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the title of Sakamoto Kyu&#039;s song &quot;Ue o Muite Arukou&quot; (I Look Up As I Walk) changed to in the United States?",
+      "correct_answer": "Sukiyaki",
+      "incorrect_answers": ["Takoyaki", "Sushi", "Oden"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In August 1964, who introduced the Beatles to cannabis?",
+      "correct_answer": "Bob Dylan",
+      "incorrect_answers": ["Jim Morrison", "Brian Epstein", "Jerry Garcia"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+      "correct_answer": "9",
+      "incorrect_answers": ["48", "6", "3"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+      "correct_answer": "Compton",
+      "incorrect_answers": ["Detroit", "New York", "Baltimore"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which album was released by Kanye West in 2013?",
+      "correct_answer": "Yeezus",
+      "incorrect_answers": [
+        "My Beautiful Dark Twisted Fantasy",
+        "The Life of Pablo",
+        "Watch the Throne"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+      "correct_answer": "Dog Blood",
+      "incorrect_answers": ["Jack &Uuml;", "What So Not", "Noisia"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When did the rapper Eazy-E die?",
+      "correct_answer": "March 26, 1995",
+      "incorrect_answers": [
+        "July 11, 1992",
+        "February 14, 1993",
+        "October 21, 1994"
+      ]
+    }
+  ]
+}
