@@ -3,12 +3,14 @@ const fs = require("fs");
 const { connection } = require("./config/db");
 const cors = require("cors");
 const { Questionmodel } = require("./models/question.model");
+ const { Quizdatavcontroller } = require("./controllers/questions.controller");
 const app = express();
 app.use(express.json());
 app.use(cors());
 app.get("/", (req, res) => {
   res.send("welcome to home page");
 });
+app.get("/quiz", Quizdatavcontroller);
 const data = JSON.parse(fs.readFileSync("./db.json", "utf-8"));
 
 const uploadData = async () => {
@@ -16,7 +18,8 @@ const uploadData = async () => {
   console.log("data imported");
   process.exit();
 };
-uploadData();
+//uploadData();
+
 app.listen(8787, async () => {
   try {
     await connection;
