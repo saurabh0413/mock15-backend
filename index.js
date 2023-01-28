@@ -1,13 +1,22 @@
 const express = require("express");
+const fs = require("fs");
 const { connection } = require("./config/db");
 const cors = require("cors");
-
+const { Questionmodel } = require("./models/question.model");
+const app = express();
 app.use(express.json());
 app.use(cors());
 app.get("/", (req, res) => {
   res.send("welcome to home page");
 });
+const data = JSON.parse(fs.readFileSync("./db.json", "utf-8"));
 
+const uploadData = async () => {
+  await Questionmodel.create(data);
+  console.log("data imported");
+  process.exit();
+};
+uploadData();
 app.listen(8787, async () => {
   try {
     await connection;
